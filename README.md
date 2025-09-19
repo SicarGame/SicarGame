@@ -12,7 +12,8 @@ A fast, competitive first-person shooter that runs in your browser. Instant acce
 
 - Playtest: https://play.sicar.io  
 - Website & waitlist: https://sicar.io  
-- Community: [Discord](https://discord.gg/tetwdUAPRP) · [X / Twitter](https://x.com/SicarGame) · [YouTube](https://youtube.com/@SicarGame) · [TikTok](https://tiktok.com/@SicarGame) · [Instagram](https://instagram.com/SicarGame)
+- Community: [Discord](https://discord.gg/tetwdUAPRP) · [X / Twitter](https://x.com/SicarGame) · [YouTube](https://youtube.com/@SicarGame) · [GitHub](https://github.com/Hoodgail) · [Instagram](https://instagram.com/SicarGame)
+- Owners: [Drex](https://github.com/Hoodgail) · [Drake](https://github.com/armaccord)
 
 > Looking to collaborate, cover Sicar, or explore partnerships? See **Press & Business** below.
 
